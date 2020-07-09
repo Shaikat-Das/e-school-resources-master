@@ -1,0 +1,180 @@
+/* nav bar background color */
+
+.navbar{
+    background-color:rgba(255, 255, 255, 0) !important;
+}
+/* here different Bootstrap set color is overwrite by !important  */
+
+.navbar .navbar-nav a:hover {
+    color: salmon  !important;
+    font-size: large;
+}
+
+.navbar-toggler{
+    background-color: rgb(183, 220, 235);
+}
+
+/* .navbar-toggler-icon{
+    background-color: slateblue;
+}  This color is not aesthetic so not used*/
+
+.nav-item{
+    margin-left: 10px;
+    color: rgb(49, 47, 47) !important;
+
+}
+
+.icon-size{
+    width: 100px;
+    height: 40px;
+    margin-left: 100px;
+    
+}
+
+.icon-size:hover{
+    width: 125px;
+    height: 45px; 
+}
+
+.green-button{
+        display: inline;
+        border-radius: 16px;
+        margin-left: 0px;
+        cursor: pointer;
+        padding: 3px 20px;      
+
+}
+.green-button:hover{
+        color: salmon;
+        font-size: large;
+
+}
+.green-letters{
+    color: green;
+}
+
+.teaching-photo{
+        width: 80%;
+        height: 80%;
+
+}
+
+.head1  {
+        margin-bottom: 50px;
+        margin-left: 50px;
+}
+
+.head2  {
+    margin-bottom: 50px;
+    margin-left: 170px;
+
+}
+
+.bg-header{
+        background-color: #f0fff0;
+        margin: 0 0 0 0px;
+
+}
+/* First part css above  and second part below*/
+
+.book-icon {
+    width: 50px;
+    height: 50px;
+
+}
+.box:hover {
+            color: skyblue;
+}
+
+.box{
+
+    width: 200px;
+    height: 200px;
+    border: 2px solid  #f8fffb;
+    border-radius: 5px;
+    margin: 15px;
+    background-color: #f8fffb;
+    padding: 35px;
+    text-align: center;
+}
+
+.box2{
+      background-color: white;
+      border: 1px solid #f8fffb;
+      box-shadow: 5px 5px 10px gray;
+      
+}
+
+
+/* third part: others-courses */
+
+.card-container{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.online{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.card-img-top{
+
+    width: 90%;
+    height: 45%;
+    margin: 5%;
+
+}
+
+.footer-icon{
+    width: 15px ;
+    margin-right: 5px;
+}
+
+.card-footer-left{
+    display: inline;
+}
+.card-footer-right{
+    display: inline;
+}
+
+.buy-button{
+    margin-left: 0;
+    margin-bottom: 25px;
+    border-radius: 16px;
+    padding: 3px 10px; 
+}
+
+/* Fourth Part style below */
+.Reviewer-image{
+    width: 100px;
+    height: 100px;
+}
+.testimonial{
+    
+    margin-bottom: 100px;
+}
+/* Fifth part: Footer */
+
+.item-name{
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+} 
+.copy-right{
+    text-align: center;
+}
+.footer{
+    color: white;
+    background-color: #282531;
+}
+
+.text{
+
+    padding-top: 15%;
+}
+
+.copyright-symbol{
+        width: 1em;
+        height: 1em;
+
+}
